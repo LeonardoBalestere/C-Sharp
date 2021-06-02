@@ -85,7 +85,7 @@ namespace Series
             Console.Write("Type the series's description: ");
             string selectedDescription = Console.ReadLine();
 
-            Console.WriteLine("Type the relase year: ");
+            Console.Write("Type the relase year: ");
             int selectedyear = int.Parse(Console.ReadLine());
 
             Serie updatedSerie = new Serie(id: selectedId,
@@ -116,7 +116,7 @@ namespace Series
             Console.Write("Type the series's description: ");
             string selectedDescription = Console.ReadLine();
 
-            Console.WriteLine("Type the relase year: ");
+            Console.Write("Type the relase year: ");
             int selectedyear = int.Parse(Console.ReadLine());
 
             Serie newserie = new Serie(id: repository.NextId(),
