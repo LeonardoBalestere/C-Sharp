@@ -1,0 +1,13 @@
+C:\Users\alves\Documents\c#\DIOtest\bin\Debug\netcoreapp3.1\DIOtest.exe
+C:\Users\alves\Documents\c#\DIOtest\bin\Debug\netcoreapp3.1\DIOtest.deps.json
+C:\Users\alves\Documents\c#\DIOtest\bin\Debug\netcoreapp3.1\DIOtest.runtimeconfig.json
+C:\Users\alves\Documents\c#\DIOtest\bin\Debug\netcoreapp3.1\DIOtest.runtimeconfig.dev.json
+C:\Users\alves\Documents\c#\DIOtest\bin\Debug\netcoreapp3.1\DIOtest.dll
+C:\Users\alves\Documents\c#\DIOtest\bin\Debug\netcoreapp3.1\DIOtest.pdb
+C:\Users\alves\Documents\c#\DIOtest\obj\Debug\netcoreapp3.1\DIOtest.csprojAssemblyReference.cache
+C:\Users\alves\Documents\c#\DIOtest\obj\Debug\netcoreapp3.1\DIOtest.AssemblyInfoInputs.cache
+C:\Users\alves\Documents\c#\DIOtest\obj\Debug\netcoreapp3.1\DIOtest.AssemblyInfo.cs
+C:\Users\alves\Documents\c#\DIOtest\obj\Debug\netcoreapp3.1\DIOtest.csproj.CoreCompileInputs.cache
+C:\Users\alves\Documents\c#\DIOtest\obj\Debug\netcoreapp3.1\DIOtest.dll
+C:\Users\alves\Documents\c#\DIOtest\obj\Debug\netcoreapp3.1\DIOtest.pdb
+C:\Users\alves\Documents\c#\DIOtest\obj\Debug\netcoreapp3.1\DIOtest.genruntimeconfig.cache
